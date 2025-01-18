@@ -1,9 +1,6 @@
-<script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
-
 <template>
   <main>
-    <TheWelcome />
+    <h1>TypeSphere</h1>
+    <p>- A typing platform with a global perspective</p>
   </main>
 </template>
